@@ -55,7 +55,7 @@ The following is a common way to evaluate booleans.
 
 ###### Questions
 * what is wrong with the code bellow?
-  * ```
+  ```
   if myVariable = 10 {
     console.log("myVariable was equal to 10")
   else {
