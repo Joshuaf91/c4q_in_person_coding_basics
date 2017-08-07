@@ -1,8 +1,6 @@
 ## Objectives
 * [What is a variable?](#what-is-a-variable)
 * Be able to name the six [JavaScript types](#javascript-types)
-* Learn how to use [string methods](#string-methods)
-* Learn how to use `Math` object's `ceil` and `floor`
 
 ### What is a variable
 A variables is a container for storing data values. Think of a variable as a box that holds a value.
