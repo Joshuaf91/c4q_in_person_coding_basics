@@ -1,7 +1,7 @@
 ## Objectives
-* [What is a variable?](#What-is-a-variable)
-* Be able to name the six [JavaScript types](#JavaScript-types)
-* Learn how to use [string methods](#String-methods)
+* [What is a variable?](#what-is-a-variable)
+* Be able to name the six [JavaScript types](#javaScript-types)
+* Learn how to use [string methods](#string-methods)
 * Learn how to use `Math` object's `ceil` and `floor`
 
 ### What is a variable
