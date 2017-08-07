@@ -91,6 +91,6 @@ You can even add two variables together
 * `console.log(19213)`
 * `console.log(firstName)`
 
-this is a command that allows you to print to your screen. ***This does not do anything other then scream it to the world***
+This is a command that allows you to print to your screen. ***This does not do anything other then scream it to the world***
 
 
