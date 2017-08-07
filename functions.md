@@ -1,1 +1,1 @@
-hello
+Functions are everywhere Functions are the fundamental building blocks of JavaScript programs. Functions allow us to easily reuse pieces of code in different contexts, reduce repitition, and keep our programs modular.
